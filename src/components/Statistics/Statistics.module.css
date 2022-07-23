@@ -1,0 +1,29 @@
+.statistics {
+  width: 300px;
+
+  margin-right: auto;
+  margin-left: auto;
+
+  background-color: lightgray;
+}
+
+.title {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.statlist {
+  display: flex;
+
+  padding: 0;
+  text-align: center;
+  list-style: none;
+}
+
+.item {
+  width: 60px;
+}
+
+.label {
+  display: block;
+}
